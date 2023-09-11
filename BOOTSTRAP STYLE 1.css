@@ -1,0 +1,13 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo{
+    color: #9F0D7F;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
